@@ -19,4 +19,4 @@ npx hardhat
 npm install --save-dev "hardhat@^2.14.0" "@nomicfoundation/hardhat-toolbox@^2.0.0"
 ```
 ## Final operating effect
-![cross-chain screenshot](https://github.com/Michael20150527/cross-chain-token/blob/master/cross-chain-token.png "cross chain transfer")
+![web3 in action screenshot](https://github.com/Michael20150527/Web3InAction-BuyMeACoffee/blob/master/buy-me-a-coffee.png "buy me a coffee")
